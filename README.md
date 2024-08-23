@@ -7,3 +7,11 @@
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<br>
+<br>
+<img src="https://github.com/otaviovictor21/Easy-Shopping/blob/main/assets/Easy%20Shopping%20site.png?raw=true">
+<br>
+<br>
+Respossividade:
+<br>
+
